@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronakgajera2106
-- 👀 I’m interested in ASP.Net
-- 🌱 I’m currently learning ASP.Net
+- 👀 I’m interested in FRONTEND DEVLOPER.
+- 🌱 I’m currently learning JAVASCRIPT.
 - 💞️ I’m looking to collaborate with a Good IT Company
 <!-- - 📫 How to reach me -->
 
